@@ -1,0 +1,1 @@
+o	Developed a virtual desktop ai assistant using the python and python library Tkinter and also some of libraries are installed like speech recognition, PyAudio, pyttsx3, and so on and using source code develops the virtual ai assistant.
